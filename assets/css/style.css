@@ -852,4 +852,22 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     0%   {bottom:0px;}
     100%  {bottom:7px;}
 }
+
+#squareA{
+ height:100px;
+ width:95px;
+ background-color:#B80000;
+ border-radius:4px;
+ text-align:center;
+ margin-left:132px;
+}
+
+#squareB{
+ height:100px;
+ width:95px;
+ background-color:#B8FFFF;
+ border-radius:4px;
+ text-align:center;
+ margin-left:132px;
+}
 /*========================Thank you=================
